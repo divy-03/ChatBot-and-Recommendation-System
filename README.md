@@ -1,5 +1,3 @@
-Certainly, here are READMEs for the provided Python files:
-
 ## ChatBot
 
 The `ChatBot` class in this Python script simulates a chatbot that can greet users, answer predefined questions, and engage in conversations. The chatbot's responses are randomly selected from predefined responses.
